@@ -160,6 +160,7 @@ System.out.println(tree.toString());
 
 **Nome:** Daiane Tararam  
 **Email:** daalkmim@gmail.com
+🌐 **GitHub**: [Daiane Tararam](https://github.com/DaianeTararam)  
 
 ## Tecnologias Utilizadas
 
